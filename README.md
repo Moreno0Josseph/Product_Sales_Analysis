@@ -18,7 +18,7 @@ Es un dataset que reúne datos de chaquetas Zara, incluyendo ubicación en tiend
 - Correlation Analysis
 - Revenue Analysis
 - Price Sensitivity Analysis
-- 
+  
 # Plots
 
 <img width="1645" height="857" alt="Price_SalesVolumen_Scatter" src="https://github.com/user-attachments/assets/1e93e96d-2c69-4fda-aa4d-a311897d7ceb" />
